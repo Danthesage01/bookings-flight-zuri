@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "flight to Ghana",
+    "time": "1pm",
+    "price": 26000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 2,
+    "title": "flight to China",
+    "time": "2pm",
+    "price": 50000,
+    "date": "06-07-2022"
+  },
+  {
+    "id": 3,
+    "title": "flight to Canada",
+    "time": "5pm",
+    "price": 43000,
+    "date": "29-10-2022"
+  },
+  {
+    "id": 4,
+    "title": "flight to Australia",
+    "time": "5pm",
+    "price": 60000,
+    "date": "29-10-2022"
+  },
+  {
+    "id": 5,
+    "title": "flight to Jamaica",
+    "time": "1pm",
+    "price": 60000,
+    "date": "29-06-2022"
+  },
+  {
+    "id": 7,
+    "title": "flight to New York",
+    "time": "9pm",
+    "price": 60000,
+    "date": "9-08-2022"
+  },
+  {
+    "id": 8,
+    "title": "flight to Atlanta",
+    "time": "10pm",
+    "price": 70000,
+    "date": "10-08-2022"
+  },
+  {
+    "id": 9,
+    "title": "flight to Offa",
+    "time": "11pm",
+    "price": 60000,
+    "date": "9-08-2022"
+  },
+  {
+    "id": 9,
+    "title": "flight to Israel",
+    "time": "5pm",
+    "price": 70060,
+    "date": "9-10-2022"
+  }
+]
