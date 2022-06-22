@@ -8,7 +8,7 @@ const app = express();
 app.use("/", routes);
 app.use(express.json());
 app.use(express.urlencoded())
-const port = 6080;
+const port = 3000;
 const fs = require("fs");
 // const { stringify } = require("querystring");
 const tickets = require("./models/ticket.json")
